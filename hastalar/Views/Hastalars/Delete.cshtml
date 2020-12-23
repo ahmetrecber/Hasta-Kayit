@@ -1,0 +1,56 @@
+﻿@model hastalar.Models.Hastalar
+
+@{
+    ViewBag.Title = "Sil";
+}
+
+<h2>Sil</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Hastalar</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.HastaAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HastaAdi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HastaSoyadi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HastaSoyadi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HastaKanGrubu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HastaKanGrubu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HastaTelNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HastaTelNo)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Sil" class="btn btn-default" /> |
+            @Html.ActionLink("Listeye Geri Dön", "Index")
+        </div>
+    }
+</div>

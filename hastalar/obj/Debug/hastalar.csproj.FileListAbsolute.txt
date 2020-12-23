@@ -1,0 +1,268 @@
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\hastalar.dll.config
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\hastalar.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\hastalar.pdb
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\WebGrease.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\tr\System.Web.Razor.resources.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\obj\Debug\hastalar.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\obj\Debug\hastalar.csproj.CopyComplete
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\obj\Debug\hastalar.dll
+C:\Users\DELL\Desktop\Yeni klasör\hastalar\hastalar\obj\Debug\hastalar.pdb
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\hastalar.dll.config
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\hastalar.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\hastalar.pdb
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\WebGrease.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\tr\System.Web.Razor.resources.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\obj\Debug\hastalar.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\obj\Debug\hastalar.csproj.CopyComplete
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\obj\Debug\hastalar.dll
+C:\Users\DELL\Desktop\sds\hastalar\hastalar\obj\Debug\hastalar.pdb
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\hastalar.dll.config
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\hastalar.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\hastalar.pdb
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\csc.exe
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\csc.exe.config
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\csc.rsp
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\csi.exe
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\csi.exe.config
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\csi.rsp
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.AppContext.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Collections.Immutable.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Console.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Globalization.Calendars.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.IO.Compression.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.IO.FileSystem.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Net.Http.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Net.Sockets.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.ValueTuple.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Xml.XPath.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\vbc.exe
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\vbc.exe.config
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\vbc.rsp
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\VBCSCompiler.exe
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\roslyn\VBCSCompiler.exe.config
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\Antlr3.Runtime.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\EntityFramework.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\EntityFramework.SqlServer.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\Microsoft.Web.Infrastructure.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\Newtonsoft.Json.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.Helpers.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.Mvc.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.Optimization.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.Razor.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.WebPages.Deployment.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.WebPages.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.WebPages.Razor.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\WebGrease.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\EntityFramework.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\EntityFramework.SqlServer.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.Helpers.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.Mvc.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.Optimization.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.Razor.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.WebPages.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.WebPages.Deployment.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\System.Web.WebPages.Razor.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\Newtonsoft.Json.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\Antlr3.Runtime.pdb
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\tr\System.Web.Helpers.resources.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\tr\System.Web.Mvc.resources.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\tr\System.Web.Optimization.resources.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\tr\System.Web.Razor.resources.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\tr\System.Web.WebPages.resources.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\obj\Debug\hastalar.csprojAssemblyReference.cache
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\obj\Debug\hastalar.csproj.CoreCompileInputs.cache
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\obj\Debug\hastalar.csproj.CopyComplete
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\obj\Debug\hastalar.dll
+D:\Dersler\Yeni klasör (2)\sds\hastalar\hastalar\obj\Debug\hastalar.pdb

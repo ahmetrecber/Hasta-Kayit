@@ -1,0 +1,50 @@
+﻿@model hastalar.Models.Hastalar
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detaylar</h2>
+
+<div>
+    <h4>Hastalar</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.HastaAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HastaAdi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HastaSoyadi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HastaSoyadi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HastaKanGrubu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HastaKanGrubu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HastaTelNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HastaTelNo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Düzenle", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Listeye Geri Dön", "Index")
+</p>

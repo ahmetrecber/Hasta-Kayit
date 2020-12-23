@@ -1,0 +1,80 @@
+﻿@model IEnumerable<hastalar.Models.Hastalar>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+
+<div id="s1" class="jumbotron text-center">
+    <h1>Hasta Kayıt ve Bilgi Sayfası</h1>
+    <p>Nöroloji Polikliniği</p>
+</div>
+
+<p>
+    <button type="button" class="btn btn-success">@Html.ActionLink("Yeni Kayıt", "Create")</button>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.HastaAdi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HastaSoyadi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HastaKanGrubu)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HastaTelNo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HastaAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HastaSoyadi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HastaKanGrubu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HastaTelNo)
+            </td>
+            <td>
+
+                <button type="button" class="btn btn-outline-primary"> @Html.ActionLink("Güncelle", "Edit", new { id = item.ID }) </button>
+                <button type="button" class="btn btn-warning"> @Html.ActionLink("Detaylar", "Details", new { id = item.ID })</button>
+                <button type="button" class="btn btn-danger">@Html.ActionLink("Sil", "Delete", new { id = item.ID })</button>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div class="container">
+    <div class="row">
+        <div id="doctor" class="col-sm-2" style="width:184px">
+            <img class="card-img-top" src="https://www.trzcacak.rs/myfile/full/171-1713645_cartoon-doctor-animation-medical-doctor.png" alt="Card image" style="width:100%">
+            <div class="card-body">
+                <h4 class="card-title">Doktor Bozok Şifa</h4>
+                <p class="card-text">Nöroloji Uzmanı</p>
+                <a href="#" class="btn btn-primary stretched-link">Profili Görüntüle</a>
+            </div>
+        </div>
+    </div>
+</div>
